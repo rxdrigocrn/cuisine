@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: Montserrat, sans-serif;
+    background-color: #f8f9fa;
+    color: #000;
+}
+html {
+    scroll-behavior: smooth;
+}
+a{
+    font-weight: 500;
+}
+.container{
+    margin-top: 150px;
+}
+
+.container h1{
+    font-weight: 700;
+    font-size: 48px;
+}
+.container h2{
+    font-weight: 700;
+    font-size: 30px;
+}
+#imagePrato2{
+    margin-right: 125px;
+}
+#imagePrato1{
+    margin-left: 50px;
+}
