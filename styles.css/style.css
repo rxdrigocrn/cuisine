@@ -56,7 +56,17 @@ a:hover {
 #imagePrato1 {
     margin-left: 50px;
 }
+#foodCategory h5{
+    font-weight: 700;
+}
 
-@media (max-width:1200px ) {
-    
+@media (max-width:996px ) {
+    #foodCategory h5{
+        font-size: 16px;
+    }
+}
+@media (max-width:768px ) {
+    #foodCategory h5{
+        font-size: 24px;
+    }
 }
